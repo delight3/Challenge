@@ -435,7 +435,7 @@ p {
   .search-input {
     padding: 8px 30px;
     border-radius: 10px;
-    width: 200px;
+    width: 180px;
   }
   .navbar .right a:nth-child(3) {
     background-color: var(--gray300);
@@ -503,7 +503,7 @@ p {
   .main-content-select span svg {
     position: absolute;
     top: 10px;
-    right: 10px;
+    right: 5px;
   }
   /* main content select end */
   /* main content guide start */
